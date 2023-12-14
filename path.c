@@ -2,7 +2,7 @@
 /**
  * _getenv - yeb main
  * @name: char
- * Return: environment value 
+ * Return: environment value
  */
 
 char *_getenv(char *name)

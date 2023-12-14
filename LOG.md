@@ -1,7 +1,6 @@
-# 2023-10-12
-	so late start
-# 2023-10-13 -> 2023-10-19
-	read resources and concept page exercices
+# 2023-12-01 -> 2023-12-12
+	start
+    read resources and concept page exercices
 	build simple shell take 1 command
     fix memory problem
 	handle command with argument
@@ -13,6 +12,7 @@
 	add builtin, exit, env
 	add some error handling cases
 	clean code and betty
-# 2023-10-20
+# 2023-12-14
 	betty
 	clean and refactor code
+    end
